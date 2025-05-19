@@ -29,6 +29,8 @@ likelihood: !defaults [path/to/likelihood1, path/to/likelihood2, ...]
 
 - `pantheon.yaml`: pantheon+ SNIa data
 
+- `desy5.yaml`: DES Y5 SNIa data
+
 - `planck.yaml`: Planck 2018 low $\ell$ TT and high $\ell$ TT, TE and EE measurements
     - must be used with a Planck 2018 low $\ell$ EE measurement
 
