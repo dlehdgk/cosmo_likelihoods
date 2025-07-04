@@ -36,3 +36,5 @@ likelihood: !defaults [path/to/likelihood1, path/to/likelihood2, ...]
 
 - `sroll2.yaml`: Planck 2018 low $\ell$ EE Sroll2 likelihood
     - can be used instead of the new gaussian prior on $\tau$ with ACT DR6
+
+- `bk18.yaml`: [BICEP/KECK 2018 B mode CMB polarisation](https://arxiv.org/abs/2110.00483) likelihood
