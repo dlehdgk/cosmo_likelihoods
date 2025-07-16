@@ -45,3 +45,4 @@ likelihood: !defaults [path/to/likelihood1, path/to/likelihood2, ...]
     - `pri_spt3gd1mf.yaml`: contains the non-trivial priors for nuisance parameters of the SPT-3G D1 MF likelihood
 
 - `spt3gd1lite.yaml`: contains the [SPT-3G D1 lite likelihood](http://arxiv.org/abs/2412.00826) marginalised over the secondary parameters. The two remaining nuisance parameters must be added
+    - `pri_spt3gd1lite.yaml`: contains the priors for the nuisance parameter `gaussian_Tcal`:

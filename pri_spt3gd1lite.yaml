@@ -1,0 +1,1 @@
+gaussian_Tcal: 'lambda Tcal: stats.norm.logpdf(Tcal, loc=1.0, scale=0.0036)'
